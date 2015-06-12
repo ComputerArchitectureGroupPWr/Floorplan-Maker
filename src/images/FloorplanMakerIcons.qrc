@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="zoom">
+    <file>magnifier_zoom_in.png</file>
+    <file>magnifier_zoom_out.png</file>
+  </qresource>
+</RCC>

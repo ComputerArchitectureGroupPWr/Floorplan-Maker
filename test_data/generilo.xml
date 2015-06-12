@@ -1,0 +1,288 @@
+<?xml version="1.0" ?>
+<board device="Virtex5" mode="emulation" version="0.1">
+	<input name="SimCore.ncd"/>
+	<output name="Heater_test1.ncd"/>
+	<heater FMColor="#ff0000" name="heater1" type="RO1">
+		<clb col="77" row="8"/>
+		<clb col="77" row="9"/>
+		<clb col="77" row="10"/>
+		<clb col="77" row="12"/>
+		<clb col="77" row="13"/>
+		<clb col="77" row="14"/>
+		<clb col="77" row="15"/>
+		<clb col="77" row="16"/>
+		<clb col="77" row="17"/>
+		<clb col="77" row="18"/>
+		<clb col="77" row="19"/>
+		<clb col="77" row="20"/>
+		<clb col="77" row="21"/>
+		<clb col="77" row="23"/>
+		<clb col="77" row="24"/>
+		<clb col="77" row="25"/>
+		<clb col="79" row="8"/>
+		<clb col="79" row="9"/>
+		<clb col="79" row="10"/>
+		<clb col="79" row="12"/>
+		<clb col="79" row="13"/>
+		<clb col="79" row="14"/>
+		<clb col="79" row="15"/>
+		<clb col="79" row="16"/>
+		<clb col="79" row="17"/>
+		<clb col="79" row="18"/>
+		<clb col="79" row="19"/>
+		<clb col="79" row="20"/>
+		<clb col="79" row="21"/>
+		<clb col="79" row="23"/>
+		<clb col="79" row="24"/>
+		<clb col="79" row="25"/>
+		<clb col="81" row="8"/>
+		<clb col="81" row="9"/>
+		<clb col="81" row="10"/>
+		<clb col="81" row="12"/>
+		<clb col="81" row="13"/>
+		<clb col="81" row="14"/>
+		<clb col="81" row="15"/>
+		<clb col="81" row="17"/>
+		<clb col="81" row="18"/>
+		<clb col="81" row="19"/>
+		<clb col="81" row="20"/>
+		<clb col="81" row="21"/>
+		<clb col="81" row="23"/>
+		<clb col="81" row="24"/>
+		<clb col="81" row="25"/>
+		<clb col="83" row="8"/>
+		<clb col="83" row="9"/>
+		<clb col="83" row="10"/>
+		<clb col="83" row="12"/>
+		<clb col="83" row="13"/>
+		<clb col="83" row="14"/>
+		<clb col="83" row="15"/>
+		<clb col="83" row="16"/>
+		<clb col="83" row="17"/>
+		<clb col="83" row="18"/>
+		<clb col="83" row="19"/>
+		<clb col="83" row="20"/>
+		<clb col="83" row="21"/>
+		<clb col="83" row="23"/>
+		<clb col="83" row="24"/>
+		<clb col="83" row="25"/>
+		<clb col="86" row="8"/>
+		<clb col="86" row="9"/>
+		<clb col="86" row="10"/>
+		<clb col="86" row="12"/>
+		<clb col="86" row="13"/>
+		<clb col="86" row="14"/>
+		<clb col="86" row="15"/>
+		<clb col="86" row="16"/>
+		<clb col="86" row="17"/>
+		<clb col="86" row="18"/>
+		<clb col="86" row="19"/>
+		<clb col="86" row="20"/>
+		<clb col="86" row="21"/>
+		<clb col="86" row="23"/>
+		<clb col="86" row="24"/>
+		<clb col="86" row="25"/>
+	</heater>
+	<heater FMColor="#0000ff" name="heater2" type="RO1">
+		<clb col="77" row="128"/>
+		<clb col="77" row="129"/>
+		<clb col="77" row="130"/>
+		<clb col="77" row="131"/>
+		<clb col="77" row="133"/>
+		<clb col="77" row="134"/>
+		<clb col="77" row="135"/>
+		<clb col="77" row="136"/>
+		<clb col="77" row="137"/>
+		<clb col="77" row="138"/>
+		<clb col="77" row="139"/>
+		<clb col="77" row="140"/>
+		<clb col="77" row="141"/>
+		<clb col="77" row="142"/>
+		<clb col="77" row="144"/>
+		<clb col="77" row="145"/>
+		<clb col="79" row="128"/>
+		<clb col="79" row="129"/>
+		<clb col="79" row="130"/>
+		<clb col="79" row="131"/>
+		<clb col="79" row="133"/>
+		<clb col="79" row="134"/>
+		<clb col="79" row="135"/>
+		<clb col="79" row="136"/>
+		<clb col="79" row="137"/>
+		<clb col="79" row="138"/>
+		<clb col="79" row="139"/>
+		<clb col="79" row="140"/>
+		<clb col="79" row="141"/>
+		<clb col="79" row="142"/>
+		<clb col="79" row="144"/>
+		<clb col="79" row="145"/>
+		<clb col="81" row="128"/>
+		<clb col="81" row="129"/>
+		<clb col="81" row="130"/>
+		<clb col="81" row="131"/>
+		<clb col="81" row="133"/>
+		<clb col="81" row="134"/>
+		<clb col="81" row="135"/>
+		<clb col="81" row="137"/>
+		<clb col="81" row="138"/>
+		<clb col="81" row="139"/>
+		<clb col="81" row="140"/>
+		<clb col="81" row="141"/>
+		<clb col="81" row="142"/>
+		<clb col="81" row="144"/>
+		<clb col="81" row="145"/>
+		<clb col="83" row="128"/>
+		<clb col="83" row="129"/>
+		<clb col="83" row="130"/>
+		<clb col="83" row="131"/>
+		<clb col="83" row="133"/>
+		<clb col="83" row="134"/>
+		<clb col="83" row="135"/>
+		<clb col="83" row="136"/>
+		<clb col="83" row="137"/>
+		<clb col="83" row="138"/>
+		<clb col="83" row="139"/>
+		<clb col="83" row="140"/>
+		<clb col="83" row="141"/>
+		<clb col="83" row="142"/>
+		<clb col="83" row="144"/>
+		<clb col="83" row="145"/>
+		<clb col="86" row="128"/>
+		<clb col="86" row="129"/>
+		<clb col="86" row="130"/>
+		<clb col="86" row="131"/>
+		<clb col="86" row="133"/>
+		<clb col="86" row="134"/>
+		<clb col="86" row="135"/>
+		<clb col="86" row="136"/>
+		<clb col="86" row="137"/>
+		<clb col="86" row="138"/>
+		<clb col="86" row="139"/>
+		<clb col="86" row="140"/>
+		<clb col="86" row="141"/>
+		<clb col="86" row="142"/>
+		<clb col="86" row="144"/>
+		<clb col="86" row="145"/>
+    </heater>
+    <thermometer col="6" name="000" row="1" type="RO7"/>
+    <thermometer col="20" name="001" row="1" type="RO7"/>
+    <thermometer col="36" name="002" row="1" type="RO7"/>
+    <thermometer col="52" name="003" row="1" type="RO7"/>
+    <thermometer col="67" name="004" row="1" type="RO7"/>
+    <thermometer col="81" name="005" row="1" type="RO7"/>
+    <thermometer col="97" name="006" row="1" type="RO7"/>
+    <thermometer col="112" name="007" row="1" type="RO7"/>
+    <thermometer col="125" name="008" row="1" type="RO7"/>
+    <thermometer col="139" name="009" row="1" type="RO7"/>
+	<thermometer col="155" name="010" row="1" type="RO7"/>
+	<thermometer col="6" name="011" row="16" type="RO7"/>
+	<thermometer col="20" name="012" row="16" type="RO7"/>
+	<thermometer col="36" name="013" row="16" type="RO7"/>
+	<thermometer col="52" name="014" row="16" type="RO7"/>
+	<thermometer col="67" name="015" row="16" type="RO7"/>
+	<thermometer col="81" name="016" row="16" type="RO7"/>
+	<thermometer col="97" name="017" row="16" type="RO7"/>
+	<thermometer col="112" name="018" row="16" type="RO7"/>
+	<thermometer col="125" name="019" row="16" type="RO7"/>
+    <thermometer col="139" name="020" row="16" type="RO7"/>
+	<thermometer col="155" name="021" row="16" type="RO7"/>
+	<thermometer col="6" name="022" row="31" type="RO7"/>
+	<thermometer col="20" name="023" row="31" type="RO7"/>
+	<thermometer col="36" name="024" row="31" type="RO7"/>
+	<thermometer col="52" name="025" row="31" type="RO7"/>
+	<thermometer col="67" name="026" row="31" type="RO7"/>
+	<thermometer col="81" name="027" row="31" type="RO7"/>
+	<thermometer col="97" name="028" row="31" type="RO7"/>
+	<thermometer col="112" name="029" row="31" type="RO7"/>
+	<thermometer col="125" name="030" row="31" type="RO7"/>
+	<thermometer col="139" name="031" row="31" type="RO7"/>
+	<thermometer col="155" name="032" row="31" type="RO7"/>
+	<thermometer col="6" name="033" row="46" type="RO7"/>
+	<thermometer col="20" name="034" row="46" type="RO7"/>
+	<thermometer col="36" name="035" row="46" type="RO7"/>
+	<thermometer col="52" name="036" row="46" type="RO7"/>
+	<thermometer col="67" name="037" row="46" type="RO7"/>
+	<thermometer col="81" name="038" row="46" type="RO7"/>
+	<thermometer col="97" name="039" row="46" type="RO7"/>
+	<thermometer col="112" name="040" row="46" type="RO7"/>
+	<thermometer col="125" name="041" row="46" type="RO7"/>
+	<thermometer col="139" name="042" row="46" type="RO7"/>
+	<thermometer col="155" name="043" row="46" type="RO7"/>
+	<thermometer col="6" name="044" row="61" type="RO7"/>
+	<thermometer col="20" name="045" row="61" type="RO7"/>
+	<thermometer col="36" name="046" row="61" type="RO7"/>
+	<thermometer col="52" name="047" row="61" type="RO7"/>
+	<thermometer col="67" name="048" row="61" type="RO7"/>
+	<thermometer col="81" name="049" row="61" type="RO7"/>
+	<thermometer col="97" name="050" row="61" type="RO7"/>
+	<thermometer col="112" name="051" row="61" type="RO7"/>
+	<thermometer col="125" name="052" row="61" type="RO7"/>
+	<thermometer col="139" name="053" row="61" type="RO7"/>
+	<thermometer col="155" name="054" row="61" type="RO7"/>
+	<thermometer col="6" name="055" row="76" type="RO7"/>
+	<thermometer col="20" name="056" row="76" type="RO7"/>
+	<thermometer col="36" name="057" row="76" type="RO7"/>
+	<thermometer col="52" name="058" row="76" type="RO7"/>
+	<thermometer col="67" name="059" row="76" type="RO7"/>
+	<thermometer col="81" name="060" row="76" type="RO7"/>
+	<thermometer col="97" name="061" row="76" type="RO7"/>
+	<thermometer col="112" name="062" row="76" type="RO7"/>
+	<thermometer col="125" name="063" row="76" type="RO7"/>
+	<thermometer col="139" name="064" row="76" type="RO7"/>
+	<thermometer col="155" name="065" row="76" type="RO7"/>
+	<thermometer col="6" name="066" row="91" type="RO7"/>
+	<thermometer col="20" name="067" row="91" type="RO7"/>
+	<thermometer col="36" name="068" row="91" type="RO7"/>
+	<thermometer col="52" name="069" row="91" type="RO7"/>
+	<thermometer col="67" name="070" row="91" type="RO7"/>
+	<thermometer col="81" name="071" row="91" type="RO7"/>
+	<thermometer col="97" name="072" row="91" type="RO7"/>
+	<thermometer col="112" name="073" row="91" type="RO7"/>
+	<thermometer col="125" name="074" row="91" type="RO7"/>
+	<thermometer col="139" name="075" row="91" type="RO7"/>
+	<thermometer col="155" name="076" row="91" type="RO7"/>
+	<thermometer col="6" name="077" row="106" type="RO7"/>
+	<thermometer col="20" name="078" row="106" type="RO7"/>
+	<thermometer col="36" name="079" row="106" type="RO7"/>
+	<thermometer col="52" name="080" row="106" type="RO7"/>
+	<thermometer col="67" name="081" row="106" type="RO7"/>
+	<thermometer col="81" name="082" row="106" type="RO7"/>
+	<thermometer col="97" name="083" row="106" type="RO7"/>
+	<thermometer col="112" name="084" row="106" type="RO7"/>
+	<thermometer col="125" name="085" row="106" type="RO7"/>
+	<thermometer col="139" name="086" row="106" type="RO7"/>
+	<thermometer col="155" name="087" row="106" type="RO7"/>
+	<thermometer col="6" name="088" row="122" type="RO7"/>
+	<thermometer col="20" name="089" row="122" type="RO7"/>
+	<thermometer col="36" name="091" row="122" type="RO7"/>
+	<thermometer col="52" name="091" row="122" type="RO7"/>
+	<thermometer col="67" name="092" row="122" type="RO7"/>
+	<thermometer col="81" name="093" row="122" type="RO7"/>
+	<thermometer col="97" name="094" row="122" type="RO7"/>
+	<thermometer col="112" name="095" row="122" type="RO7"/>
+	<thermometer col="125" name="096" row="122" type="RO7"/>
+	<thermometer col="139" name="097" row="122" type="RO7"/>
+	<thermometer col="155" name="098" row="122" type="RO7"/>
+	<thermometer col="6" name="099" row="136" type="RO7"/>
+	<thermometer col="20" name="100" row="136" type="RO7"/>
+	<thermometer col="36" name="101" row="136" type="RO7"/>
+	<thermometer col="52" name="102" row="136" type="RO7"/>
+	<thermometer col="67" name="103" row="136" type="RO7"/>
+	<thermometer col="81" name="104" row="136" type="RO7"/>
+	<thermometer col="97" name="105" row="136" type="RO7"/>
+	<thermometer col="112" name="106" row="136" type="RO7"/>
+	<thermometer col="125" name="107" row="136" type="RO7"/>
+    <thermometer col="139" name="108" row="136" type="RO7"/>
+	<thermometer col="155" name="109" row="136" type="RO7"/>
+	<thermometer col="6" name="110" row="151" type="RO7"/>
+	<thermometer col="20" name="111" row="151" type="RO7"/>
+	<thermometer col="36" name="112" row="151" type="RO7"/>
+	<thermometer col="52" name="113" row="151" type="RO7"/>
+	<thermometer col="67" name="114" row="151" type="RO7"/>
+	<thermometer col="81" name="115" row="151" type="RO7"/>
+	<thermometer col="97" name="116" row="151" type="RO7"/>
+	<thermometer col="112" name="117" row="151" type="RO7"/>
+	<thermometer col="125" name="118" row="151" type="RO7"/>
+	<thermometer col="139" name="119" row="151" type="RO7"/>
+	<thermometer col="155" name="120" row="151" type="RO7"/>
+</board>

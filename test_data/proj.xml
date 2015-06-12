@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<FloorplanMaker version="0.1">
+	<Project author="Pawel" name="proj">
+		<Project_file src="proj.xml"/>
+		<Description_file src="floorplan.xml"/>
+		<Properties mode="emulation" model="Virtex5"/>
+		<Design_file src="generilo.xml"/>
+	</Project>
+</FloorplanMaker>
